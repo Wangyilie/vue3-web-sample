@@ -1,8 +1,6 @@
 # vue3-demo
 
-## 准备工作
-- 本工程推荐使用 `pnpm` 安装启动
-- `node.js` 版本使用 16.X
+> This repository requires using `pnpm` as the package manager for scripts to work properly. and `Node.js` version 16.X or above is required.
 
 ## Recommended IDE Setup
 
